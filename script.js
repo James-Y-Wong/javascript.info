@@ -1,11 +1,12 @@
 // alert("I'm Javascript!");
 
-let name = "John";
-let admin = name;
+// let name = "John";
+// let admin = name;
 
-alert(admin);
+// alert(admin);
 
-let ourPlanetName = "Earth"
-let currentUserName = "James"
+// let ourPlanetName = "Earth"
+// let currentUserName = "James"
 
-let 
+let userName = prompt('What is your name?')
+alert(`Your name is ${userName}`)
