@@ -20,3 +20,10 @@
 // alert ( counter++ );
 
 
+true
+false
+true
+true
+false
+false
+false
