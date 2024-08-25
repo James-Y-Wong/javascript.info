@@ -15,6 +15,8 @@
 // alert ( ++counter );
 // alert ( ++counter );
 
-let counter = 0;
-alert ( counter++ );
-alert ( counter++ );
+// let counter = 0;
+// alert ( counter++ );
+// alert ( counter++ );
+
+
